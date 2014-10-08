@@ -1,6 +1,11 @@
 /*CSS for about About.me */
 body {
 	background: url();
+	text-align: center;
+	color: green;
+}
+header {
+	position: center;
 }
 img {
 	border-radius: 10px;
