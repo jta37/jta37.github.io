@@ -5,15 +5,18 @@ body {
 	color: green;
 }
 header {
-	position: center;
+	text-align: center;
 }
 img {
 	border-radius: 10px;
 	padding: 10px 0px 0px 10px;
+	position: center;
 }
 h1 {
-	position: center;
 	color: green;
 	size: 35px;
 }
-
+p {
+	size: 100px;
+	text-align: center;
+}
