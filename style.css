@@ -2,7 +2,12 @@
 body {
 	background: url();
 }
+img {
+	border-radius: 10px;
+	padding: 10px 0px 0px 10px;
+}
 h1 {
+	position: center;
 	color: green;
 	size: 35px;
 }
