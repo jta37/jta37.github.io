@@ -10,6 +10,11 @@ header {
 	background-size: cover;
 	border: 10px rgba(125, 195, 250, 0.7);
 	border-radius: 10px;
+	height: 650px;
+}
+.star {
+	float: right;
+	position: relative;
 }
 img {
 	border-radius: 20px;
@@ -45,7 +50,7 @@ p {
 }
 div {
 	font-size: 25px;
-	margin: 40px;
+	margin: 20px;
 	height: 350px;
 	max-width: 400;
 	border-radius: 8px;
